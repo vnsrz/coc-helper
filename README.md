@@ -1,3 +1,8 @@
 # coc-helper
 
-helps the coc
+Crie um arquivo .env com as seguintes informações:
+```
+EMAIL=
+PASSWORD=
+CLAN_TAG=
+```
